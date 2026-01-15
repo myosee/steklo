@@ -1,17 +1,17 @@
-@import url(/css/header.css);
-@import url(/css/footer.css);
-@import url(/css/hero.css);
-@import url(/css/about__us.css);
-@import url(/css/feedback.css);
-@import url(/css/assort.css);
-@import url(/css/contact.css);
-@import url(/css/callback.css);
-@import url(/css/glass__partitions.css);
-@import url(/css/glass__partitions__wprint.css);
-@import url(/css/glass__shelves.css);
-@import url(/css/glass__cabinets.css);
-@import url(/css/custom__glazing.css);
-@import url(/css/custom__mirror.css);
+@import url(/steklo/css/header.css);
+@import url(/steklo/css/footer.css);
+@import url(/steklo/css/hero.css);
+@import url(/steklo/css/about__us.css);
+@import url(/steklo/css/feedback.css);
+@import url(/steklo/css/assort.css);
+@import url(/steklo/css/contact.css);
+@import url(/steklo/css/callback.css);
+@import url(/steklo/css/glass__partitions.css);
+@import url(/steklo/css/glass__partitions__wprint.css);
+@import url(/steklo/css/glass__shelves.css);
+@import url(/steklo/css/glass__cabinets.css);
+@import url(/steklo/css/custom__glazing.css);
+@import url(/steklo/css/custom__mirror.css);
 
 @font-face { font-family: "Bahnschrift"; src: url(/fonts/bahnschrift.ttf); color: #292929; }
 @font-face { font-family: "Comfortaa-Medium"; src: url(/fonts/Comfortaa-Medium.ttf); color: #292929; }
