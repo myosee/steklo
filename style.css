@@ -13,11 +13,11 @@
 @import url(/steklo/css/custom__glazing.css);
 @import url(/steklo/css/custom__mirror.css);
 
-@font-face { font-family: "Bahnschrift"; src: url(/fonts/bahnschrift.ttf); color: #292929; }
-@font-face { font-family: "Comfortaa-Medium"; src: url(/fonts/Comfortaa-Medium.ttf); color: #292929; }
-@font-face { font-family: "Comfortaa-SemiBold"; src: url(/fonts/Comfortaa-SemiBold.ttf); color: #292929; }
-@font-face { font-family: "Comfortaa"; src: url(/fonts/Comfortaa-VariableFont_wght.ttf); color: #292929; }
-@font-face { font-family: "Misto"; src: url(/fonts/Misto.ttf); color: #292929; }
+@font-face { font-family: "Bahnschrift"; src: url(/steklo/fonts/bahnschrift.ttf); color: #292929; }
+@font-face { font-family: "Comfortaa-Medium"; src: url(/steklo/fonts/Comfortaa-Medium.ttf); color: #292929; }
+@font-face { font-family: "Comfortaa-SemiBold"; src: url(/steklo/fonts/Comfortaa-SemiBold.ttf); color: #292929; }
+@font-face { font-family: "Comfortaa"; src: url(/steklo/fonts/Comfortaa-VariableFont_wght.ttf); color: #292929; }
+@font-face { font-family: "Misto"; src: url(/steklo/fonts/Misto.ttf); color: #292929; }
 
 *
 {
