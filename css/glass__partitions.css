@@ -1,7 +1,7 @@
 .partitions
 {
     display: flex;
-    background: url(/img/patritions.jpg) no-repeat;
+    background: url(/steklo/img/patritions.jpg) no-repeat;
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
@@ -73,7 +73,7 @@
 .prt2
 {
     display: flex;
-    background: url(/img/wprint.jpg) no-repeat;
+    background: url(/steklo/img/wprint.jpg) no-repeat;
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
@@ -84,7 +84,7 @@
 .prt3
 {
     display: flex;
-    background: url(/img/shelves.jpg) no-repeat;
+    background: url(/steklo/img/shelves.jpg) no-repeat;
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
@@ -95,7 +95,7 @@
 .prt4
 {
     display: flex;
-    background: url(/img/cabinets.jpg) no-repeat;
+    background: url(/steklo/img/cabinets.jpg) no-repeat;
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
@@ -106,7 +106,7 @@
 .prt5
 {
     display: flex;
-    background: url(/img/custom.jpg) no-repeat;
+    background: url(/steklo/img/custom.jpg) no-repeat;
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
@@ -117,7 +117,7 @@
 .prt6
 {
     display: flex;
-    background: url(/img/mirror.webp) no-repeat;
+    background: url(/steklo/img/mirror.webp) no-repeat;
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
